@@ -4,8 +4,9 @@ import javax.naming.event.ObjectChangeListener;
 import java.util.HashMap;
 import java.util.Map;
 public class Test {
+    private static String name="";
 
-    private static String name="zhangsan";
+    private static String name1="zhangsan";
 
 
 
