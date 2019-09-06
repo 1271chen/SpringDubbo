@@ -7,6 +7,9 @@ public class Test {
 
     private static String name="zhangsan";
 
+
+
+
     public static void main(String[] args) {
         HashMap map=new HashMap<>();
         Map<String,Object> map1=new HashMap<>();
